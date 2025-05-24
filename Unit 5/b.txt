@@ -1,0 +1,4 @@
+This is a sample text file.
+You can write any random text here.
+Feel free to add more lines as needed.
+This is just an example to demonstrate how to write text in a file.
